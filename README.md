@@ -9,7 +9,7 @@
 
 </div>
 
----
+
 <div align="center">
 
 I build developer tools, write docs, and ship products people actually use.
@@ -19,7 +19,6 @@ I build developer tools, write docs, and ship products people actually use.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
 <div align="center">
 
 ## 🤝 Let's Connect
