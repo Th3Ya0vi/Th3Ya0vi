@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Yaovi 👋
 
-<!--
-**Th3Ya0vi/Th3Ya0vi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevRel @ [Phantom](https://phantom.app)** · I live to ship
 
-Here are some ideas to get you started:
+I build developer tools and open source projects. Currently helping developers build with Phantom and Solana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to
+
+🛠️ Building embedded wallet experiences at [@phantom](https://github.com/phantom)
+
+🚀 Shipping open source starter kits and developer resources
+
+✍️ Writing docs and creating tutorials for web3 developers
+
+### Recent Projects
+
+[phantom-embedded-react-starter](https://github.com/Th3Ya0vi/phantom-embedded-react-starter) – React starter for Phantom embedded wallets
+
+[phantom-connect-skill](https://github.com/Th3Ya0vi/phantom-connect-skill) – Phantom wallet connection utilities
+
+[ReelComp](https://github.com/Th3Ya0vi/ReelComp) – Video composition tool (68+ stars)
+
+### Connect
+
+💼 [Phantom](https://phantom.app) · 📧 dkpoga@gmail.com
