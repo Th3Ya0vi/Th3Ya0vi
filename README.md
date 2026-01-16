@@ -22,4 +22,4 @@ I build developer tools and open source projects. Currently helping developers b
 
 ### Connect
 
-💼 [Phantom](https://phantom.app) · 📧 dkpoga@gmail.com
+💼 [Phantom](https://phantom.app) · 📧 dkpoga@gmail.com · 𝕏 [@Th3Ya0vi](https://x.com/Th3Ya0vi)
