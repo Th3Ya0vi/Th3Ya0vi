@@ -2,7 +2,7 @@
 
 # Hey, I'm Yaovi 👋
 
-### DevRel Engineer @ [Phantom](https://phantom.app) · I love to ship
+### DevRel  @ [Phantom](https://phantom.app) · I love to ship
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Th3Ya0vi?style=social)](https://x.com/Th3Ya0vi)
 [![Website](https://img.shields.io/badge/yaovi.me-000?style=flat&logo=googlechrome&logoColor=white)](https://yaovi.me)
@@ -10,6 +10,7 @@
 </div>
 
 ---
+<div align="center">
 
 I build developer tools, write docs, and ship products people actually use.
 
@@ -19,25 +20,7 @@ I build developer tools, write docs, and ship products people actually use.
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
-
-## 🚀 What I'm Building
-
-| Project | Description |
-|---------|-------------|
-| 🎬 **[ReelComp](https://github.com/Th3Ya0vi/ReelComp)** | A video composition tool for creators (68+ ⭐) |
-| 🛠️ **Starter Kits** | Open source templates to get devs building on Solana faster |
-
----
-
-## ⚡ Featured Work
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 🎬 **ReelComp** | Video composition tool for creators | [View Repo](https://github.com/Th3Ya0vi/ReelComp) |
-| 📱 **Phantom Embedded Starter Kits** | React Native & JS templates for wallet integration | [Explore](https://github.com/phantom) |
-| 📖 **Phantom Docs** | Official documentation contributions | [Read Docs](https://docs.phantom.app) |
-
----
+<div align="center">
 
 ## 🤝 Let's Connect
 
