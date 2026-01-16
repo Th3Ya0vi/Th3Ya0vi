@@ -14,6 +14,8 @@ Writing docs and creating tutorials for web3 developers
 
 Building consumer apps on the side
 
+Creator of [ReelComp](https://github.com/Th3Ya0vi/ReelComp), a video composition tool with 68+ stars
+
 Always down to explore new ideas with others
 
 ### Connect
