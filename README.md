@@ -1,25 +1,21 @@
-# Hey, I'm Yaovi 👋
+# Hey, I'm Yaovi
 
 **DevRel @ [Phantom](https://phantom.app)** · I live to ship
 
-I build developer tools and open source projects. Currently helping developers build with Phantom and Solana.
+I build developer tools and consumer apps. Currently helping developers build better experiences with Phantom and Solana.
 
 ### What I'm up to
 
-🛠️ Building embedded wallet experiences at [@phantom](https://github.com/phantom)
+Helping developers build better wallet experiences at [@phantom](https://github.com/phantom)
 
-🚀 Shipping open source starter kits and developer resources
+Shipping open source starter kits and developer resources
 
-✍️ Writing docs and creating tutorials for web3 developers
+Writing docs and creating tutorials for web3 developers
 
-### Recent Projects
+Building consumer apps on the side
 
-[phantom-embedded-react-starter](https://github.com/Th3Ya0vi/phantom-embedded-react-starter) – React starter for Phantom embedded wallets
-
-[phantom-connect-skill](https://github.com/Th3Ya0vi/phantom-connect-skill) – Phantom wallet connection utilities
-
-[ReelComp](https://github.com/Th3Ya0vi/ReelComp) – Video composition tool (68+ stars)
+Always down to explore new ideas with others
 
 ### Connect
 
-💼 [Phantom](https://phantom.app) · 📧 dkpoga@gmail.com · 𝕏 [@Th3Ya0vi](https://x.com/Th3Ya0vi)
+[@Th3Ya0vi](https://x.com/Th3Ya0vi) · [yaovi.me](https://yaovi.me)
