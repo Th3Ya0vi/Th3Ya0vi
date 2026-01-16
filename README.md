@@ -1,6 +1,6 @@
 # Hey, I'm Yaovi
 
-**DevRel @ [Phantom](https://phantom.app)** · I live to ship
+**DevRel @ [Phantom](https://phantom.app)** · I love to ship
 
 I build developer tools and consumer apps. Currently helping developers build better experiences with Phantom and Solana.
 
