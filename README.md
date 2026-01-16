@@ -1,23 +1,53 @@
-# Hey, I'm Yaovi
+<div align="center">
 
-**DevRel @ [Phantom](https://phantom.app)** · I love to ship
+# Hey, I'm Yaovi 👋
 
-I build developer tools and consumer apps. Currently helping developers build better experiences with Phantom and Solana.
+### DevRel Engineer @ [Phantom](https://phantom.app) · I love to ship
 
-### What I'm up to
+[![Twitter Follow](https://img.shields.io/twitter/follow/Th3Ya0vi?style=social)](https://x.com/Th3Ya0vi)
+[![Website](https://img.shields.io/badge/yaovi.me-000?style=flat&logo=googlechrome&logoColor=white)](https://yaovi.me)
 
-Helping developers build better wallet experiences at [@phantom](https://github.com/phantom)
+</div>
 
-Shipping open source starter kits and developer resources
+---
 
-Writing docs and creating tutorials for web3 developers
+I build developer tools, write docs, and ship products people actually use.
 
-Building consumer apps on the side
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-Creator of [ReelComp](https://github.com/Th3Ya0vi/ReelComp), a video composition tool with 68+ stars
+---
 
-Always down to explore new ideas with others
+## 🚀 What I'm Building
 
-### Connect
+| Project | Description |
+|---------|-------------|
+| 🎬 **[ReelComp](https://github.com/Th3Ya0vi/ReelComp)** | A video composition tool for creators (68+ ⭐) |
+| 🛠️ **Starter Kits** | Open source templates to get devs building on Solana faster |
 
-[@Th3Ya0vi](https://x.com/Th3Ya0vi) · [yaovi.me](https://yaovi.me)
+---
+
+## ⚡ Featured Work
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🎬 **ReelComp** | Video composition tool for creators | [View Repo](https://github.com/Th3Ya0vi/ReelComp) |
+| 📱 **Phantom Embedded Starter Kits** | React Native & JS templates for wallet integration | [Explore](https://github.com/phantom) |
+| 📖 **Phantom Docs** | Official documentation contributions | [Read Docs](https://docs.phantom.app) |
+
+---
+
+## 🤝 Let's Connect
+
+Building on Solana? Need help with Phantom integrations? I'm always down to chat.
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/@Th3Ya0vi-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Th3Ya0vi)
+[![Website](https://img.shields.io/badge/yaovi.me-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaovi.me)
+
+**DMs open for Solana/Phantom questions** 💬
+
+</div>
